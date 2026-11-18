@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="70" viewBox="0 0 860 70" role="img" aria-label="fim">
+  <style>text { font-family: 'JetBrains Mono','Cascadia Code','Consolas','DejaVu Sans Mono','Menlo',monospace; } .blink { animation: blink 1s steps(1) infinite; } @keyframes blink { 50% { opacity: 0; } }</style>
+  <rect x="0.5" y="0.5" width="859" height="69" rx="12" fill="#0d1117" stroke="#30363d"/>
+  <text x="28" y="42" font-size="15" xml:space="preserve"><tspan fill="#3fb950">carreira=# </tspan><tspan fill="#ff7b72" font-weight="bold">COMMIT</tspan><tspan fill="#e6edf3">;</tspan><tspan fill="#8b949e">  -- obrigado pela visita!</tspan></text>
+  <rect class="blink" x="428" y="28" width="9" height="17" fill="#e6edf3"/>
+</svg>
