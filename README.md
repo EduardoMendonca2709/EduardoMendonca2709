@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/header.svg" alt="Terminal psql exibindo: Eduardo Mendonça, Estagiário de People Analytics no A.C.Camargo Cancer Center, estudante de ADS no Senac, foco em Análise, Engenharia e Ciência de Dados, São Paulo" width="100%"/>
+<img src="./assets/header.svg" alt="Terminal psql exibindo: Eduardo Mendonça, Estagiário de People Analytics no A.C.Camargo Cancer Center, estudante de ADS no Senac, foco em Ciência de Dados, Análise e Engenharia, São Paulo" width="100%"/>
 
 <a href="https://www.linkedin.com/in/eduardosantosmendonca/"><img src="./assets/btn-linkedin.svg" alt="LinkedIn" height="44"/></a>
 
@@ -8,7 +8,7 @@
 
 ### `-- 01` sobre
 
-Estagiário de **People Analytics** no **A.C.Camargo Cancer Center**, onde transformo dados de RH em relatórios e dashboards que apoiam decisões sobre pessoas. Curso **Análise e Desenvolvimento de Sistemas no Senac** e estou construindo minha carreira em **dados** — com interesse em análise, engenharia e ciência de dados.
+Estagiário de **People Analytics** no **A.C.Camargo Cancer Center**, onde transformo dados de RH em relatórios e dashboards que apoiam decisões sobre pessoas. Curso **Análise e Desenvolvimento de Sistemas no Senac** e estou construindo minha carreira rumo à **Ciência de Dados**, com interesse também em análise e engenharia de dados.
 
 ### `-- 02` stack
 
@@ -16,7 +16,7 @@ Estagiário de **People Analytics** no **A.C.Camargo Cancer Center**, onde trans
 
 ### `-- 03` trajetória
 
-<img src="./assets/pipeline.svg" alt="Pipeline da carreira: Extract — Senac e certificações; Transform — People Analytics no A.C.Camargo desde abr/2026; Load — próximo destino, estágio em Dados" width="100%"/>
+<img src="./assets/pipeline.svg" alt="Pipeline da carreira: Extract — Senac e certificações; Transform — People Analytics no A.C.Camargo desde abr/2026; Load — próximo destino, estágio em Ciência de Dados" width="100%"/>
 
 ### `-- 04` projetos
 
@@ -30,6 +30,8 @@ Estagiário de **People Analytics** no **A.C.Camargo Cancer Center**, onde trans
 <br/>
 
 **Eduardo Mendonça** — São Paulo, SP
+
+**Objetivo:** estágio em Ciência de Dados (também aberto a Análise e Engenharia de Dados)
 
 **Experiência**
 - **Estagiário de People Analytics** — A.C.Camargo Cancer Center (abr/2026 – atual)
