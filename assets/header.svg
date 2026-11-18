@@ -41,7 +41,7 @@
   <text x="28" y="284" font-size="15" xml:space="preserve" opacity="0"><tspan fill="#d2a8ff">formacao     </tspan><tspan fill="#8b949e">| </tspan><tspan fill="#e6edf3">Análise e Desenvolvimento de Sistemas — Senac</tspan>
     <animate attributeName="opacity" from="0" to="1" begin="5.75s" dur="0.25s" fill="freeze"/>
   </text>
-  <text x="28" y="309" font-size="15" xml:space="preserve" opacity="0"><tspan fill="#d2a8ff">foco         </tspan><tspan fill="#8b949e">| </tspan><tspan fill="#e6edf3">Análise · Engenharia · Ciência de Dados</tspan>
+  <text x="28" y="309" font-size="15" xml:space="preserve" opacity="0"><tspan fill="#d2a8ff">foco         </tspan><tspan fill="#8b949e">| </tspan><tspan fill="#e6edf3">Ciência de Dados · Análise · Engenharia</tspan>
     <animate attributeName="opacity" from="0" to="1" begin="5.87s" dur="0.25s" fill="freeze"/>
   </text>
   <text x="28" y="334" font-size="15" xml:space="preserve" opacity="0"><tspan fill="#d2a8ff">local        </tspan><tspan fill="#8b949e">| </tspan><tspan fill="#e6edf3">São Paulo, SP</tspan>

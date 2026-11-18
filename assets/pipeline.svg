@@ -40,9 +40,9 @@
     <rect x="600.0" y="92" width="240" height="6" rx="3" fill="#3fb950"/>
     <text x="618.0" y="130" font-size="18" font-weight="bold" fill="#3fb950">LOAD</text>
     <text x="618.0" y="152" font-size="13" fill="#8b949e">Próximo destino</text>
-    <text x="618.0" y="184" font-size="14" fill="#e6edf3">Estágio em Dados</text>
-    <text x="618.0" y="208" font-size="14" fill="#e6edf3">Análise · Engenharia</text>
-    <text x="618.0" y="232" font-size="14" fill="#8b949e">· Ciência de Dados</text>
+    <text x="618.0" y="184" font-size="14" fill="#e6edf3">Estágio em</text>
+    <text x="618.0" y="208" font-size="14" fill="#e6edf3">Ciência de Dados</text>
+    <text x="618.0" y="232" font-size="14" fill="#8b949e">+ Análise e Engenharia</text>
     <text x="618.0" y="256" font-size="14" fill="#8b949e">(aberto a oportunidades)</text>
   </g>
   <line x1="266.0" y1="192.0" x2="298.0" y2="192.0" stroke="#30363d" stroke-width="2"/>
