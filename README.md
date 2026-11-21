@@ -1,20 +1,39 @@
-<div align="center">
+<a href="https://www.linkedin.com/in/eduardosantosmendonca/">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/header-dark.svg">
+    <img alt="Notebook carreira.ipynb: Eduardo Mendonça, Estagiário de People Analytics no A.C.Camargo Cancer Center, rumo à Ciência de Dados, ADS no Senac São Paulo" src="./assets/header-light.svg" width="100%">
+  </picture>
+</a>
 
-<img src="./assets/header.svg" alt="Notebook carreira.ipynb: Eduardo Mendonça, Estagiário de People Analytics no A.C.Camargo Cancer Center, rumo à Ciência de Dados, ADS no Senac São Paulo" width="100%"/>
+<p>
+  <a href="https://www.linkedin.com/in/eduardosantosmendonca/"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/btn-linkedin-dark.svg"><img alt="LinkedIn" src="./assets/btn-linkedin-light.svg" height="40"></picture></a>
+  <a href="https://github.com/EduardoMendonca2709?tab=repositories"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/btn-repos-dark.svg"><img alt="Repositórios" src="./assets/btn-repos-light.svg" height="40"></picture></a>
+</p>
 
-<a href="https://www.linkedin.com/in/eduardosantosmendonca/"><img src="./assets/btn-linkedin.svg" alt="LinkedIn" height="44"/></a>
+Estagiário de **People Analytics** no **A.C.Camargo Cancer Center** e estudante de **Análise e Desenvolvimento de Sistemas no Senac SP**, em busca de **estágio em Ciência de Dados**. No dia a dia, uso **SQL**, **Power BI** e **Excel** para transformar dados de RH em relatórios e dashboards que apoiam decisões sobre pessoas. Por fora, estudo **Python** para análise de dados.
 
-</div>
+### Stack
 
-### Sobre
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/stack-dark.svg">
+  <img alt="DataFrame da stack: SQL, Power BI, Excel e ETL no trabalho; Oracle Database por certificação; Python em estudo; Git em projetos" src="./assets/stack-light.svg" width="100%">
+</picture>
 
-Estagiário de **People Analytics** no **A.C.Camargo Cancer Center**, onde transformo dados de RH em relatórios e dashboards que apoiam decisões sobre pessoas. No dia a dia, uso **SQL**, **Power BI** e **Excel** para extrair, tratar e analisar dados. Curso **Análise e Desenvolvimento de Sistemas no Senac** e estou construindo minha carreira rumo à **Ciência de Dados**, com interesse também em análise e engenharia de dados.
+### Trajetória
 
-<img src="./assets/stack.svg" alt="DataFrame da stack: SQL, Power BI, Excel e ETL no trabalho; Oracle Database por certificação; Python em estudo; Git em projetos" width="100%"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/trajetoria-dark.svg">
+  <img alt="Gráfico da trajetória: jovem aprendiz (2023–2024), Excel Intermediário (jun/2023), ADS no Senac (jul/2025), certificações SQL, Oracle e Power BI (2025), People Analytics no A.C.Camargo (abr/2026); próximo destino: estágio em Ciência de Dados" src="./assets/trajetoria-light.svg" width="100%">
+</picture>
 
-<img src="./assets/trajetoria.svg" alt="Gráfico da trajetória: jovem aprendiz (2023–2024), Excel Intermediário (jun/2023), ADS no Senac (jul/2025), certificações SQL, Oracle e Power BI (2025), People Analytics no A.C.Camargo (abr/2026); próximo destino: estágio em Ciência de Dados" width="100%"/>
+### Projetos
 
-<a href="https://github.com/EduardoMendonca2709/Dados-Pessoais"><img src="./assets/proj-dados-pessoais.svg" alt="Projetos: Dados-Pessoais, API REST de cadastro de pessoas com validação; projetos de análise de dados em construção" width="100%"/></a>
+<a href="https://github.com/EduardoMendonca2709/Dados-Pessoais">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/projetos-dark.svg">
+    <img alt="Projetos: Dados-Pessoais, API REST de cadastro de pessoas com validação; projetos de análise de dados em construção" src="./assets/projetos-light.svg" width="100%">
+  </picture>
+</a>
 
 <details>
 <summary><b>versão em texto</b> (para leitura rápida)</summary>
@@ -52,6 +71,9 @@ SQL · Oracle Database · Power BI · Excel · ETL · Modelagem de Dados · Visu
 
 </details>
 
-<div align="center">
-<img src="./assets/footer.svg" alt="Célula vazia: obrigado pela visita!" width="100%"/>
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/footer-dark.svg">
+  <img alt="Célula vazia: obrigado pela visita!" src="./assets/footer-light.svg" width="100%">
+</picture>
+
+<sub>Aberto a feedback e a conversas sobre dados. Se quiser falar comigo, me chame no LinkedIn.</sub>
