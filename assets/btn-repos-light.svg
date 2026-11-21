@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="282" height="44" viewBox="0 0 282 44" role="img" aria-label="Repositórios">
+<style>
+  .m { font-family: 'JetBrains Mono','Cascadia Code','SFMono-Regular','Consolas','DejaVu Sans Mono','Menlo',monospace; }
+  .s { font-family: 'Segoe UI','Helvetica Neue','Inter','Roboto','Arial',sans-serif; }
+  .blink { animation: blink 1s steps(1) infinite; }
+  @keyframes blink { 50% { opacity: 0; } }
+</style>
+<rect x="0.5" y="0.5" width="281" height="43" rx="8" fill="#ffffff" stroke="#307fc1"/><path d="M18 13 L30 22 L18 31 Z" fill="#307fc1"/><text x="42" y="27" class="m" font-size="14" xml:space="preserve"><tspan fill="#1f2328">eduardo.</tspan><tspan fill="#0000ff">repositorios</tspan><tspan fill="#1f2328">()</tspan></text>
+</svg>

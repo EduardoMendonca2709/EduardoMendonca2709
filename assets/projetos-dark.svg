@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="224" viewBox="0 0 860 224" role="img" aria-label="Projetos: Dados-Pessoais, API REST de cadastro de pessoas com validação; projetos de análise de dados em construção">
+<style>
+  .m { font-family: 'JetBrains Mono','Cascadia Code','SFMono-Regular','Consolas','DejaVu Sans Mono','Menlo',monospace; }
+  .s { font-family: 'Segoe UI','Helvetica Neue','Inter','Roboto','Arial',sans-serif; }
+  .blink { animation: blink 1s steps(1) infinite; }
+  @keyframes blink { 50% { opacity: 0; } }
+</style>
+<rect x="0.5" y="0.5" width="859" height="223" rx="10" fill="#0d1117" stroke="#30363d"/>
+<rect x="12" y="24" width="3" height="38" rx="1.5" fill="#58a6ff"/><text x="86" y="47.84" text-anchor="end" class="m" font-size="13" fill="#58a6ff">In [5]:</text><rect x="96" y="24" width="740" height="38" rx="3" fill="#161b22" stroke="#30363d"/>
+<clipPath id="c6"><rect x="106" y="32" height="22" width="0"><animate attributeName="width" from="0" to="139" begin="0.30s" dur="0.35s" fill="freeze"/></rect></clipPath><text x="108" y="47.8" class="m" font-size="14" xml:space="preserve" clip-path="url(#c6)"><tspan fill="#e6edf3">eduardo</tspan><tspan fill="#79c0ff">.</tspan><tspan fill="#e6edf3">projetos</tspan></text>
+<g opacity="0"><text x="86" y="102" text-anchor="end" class="m" font-size="13" fill="#ff7b72">Out[5]:</text><text x="96" y="102" class="s" font-size="14" fill="#8b949e">Projetos de análise de dados (Python · SQL · Power BI) em construção — em breve aqui.</text><rect x="96" y="120" width="740" height="84" rx="8" fill="#1d1712" stroke="#f78b47" stroke-opacity="0.5"/><text x="116" y="150" class="s" font-size="16" font-weight="700" fill="#e6edf3">Dados-Pessoais</text><text x="116" y="174" class="s" font-size="13.5" fill="#8b949e">API REST de cadastro de pessoas com validação de dados</text><text x="116" y="192" class="m" font-size="12" fill="#58a6ff">Java · Spring Boot · REST</text><text x="816" y="168" text-anchor="end" class="s" font-size="13" font-weight="600" fill="#f78b47">ver repositório →</text><animate attributeName="opacity" from="0" to="1" begin="1.00s" dur="0.4s" fill="freeze"/></g>
+
+</svg>

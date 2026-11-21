@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="350" viewBox="0 0 860 350" role="img" aria-label="Notebook carreira.ipynb: Eduardo Mendonça, Estagiário de People Analytics no A.C.Camargo Cancer Center, rumo à Ciência de Dados, ADS no Senac São Paulo">
+<style>
+  .m { font-family: 'JetBrains Mono','Cascadia Code','SFMono-Regular','Consolas','DejaVu Sans Mono','Menlo',monospace; }
+  .s { font-family: 'Segoe UI','Helvetica Neue','Inter','Roboto','Arial',sans-serif; }
+  .blink { animation: blink 1s steps(1) infinite; }
+  @keyframes blink { 50% { opacity: 0; } }
+</style>
+<rect x="0.5" y="0.5" width="859" height="349" rx="10" fill="#0d1117" stroke="#30363d"/>
+<path d="M0.5 44 V10.5 a10 10 0 0 1 10 -10 H849.5 a10 10 0 0 1 10 10 V44 Z" fill="#161b22"/><line x1="0.5" y1="44" x2="859.5" y2="44" stroke="#30363d"/>
+<g transform="translate(20,11)"><path d="M2 8 A10 5 0 0 1 22 8 A12 4 0 0 0 2 8Z" fill="#f78b47"/><path d="M2 16 A10 5 0 0 0 22 16 A12 4 0 0 1 2 16Z" fill="#f78b47"/><circle cx="21" cy="2" r="1.6" fill="#767677"/><circle cx="3" cy="21" r="1.4" fill="#989798"/><circle cx="4" cy="3" r="1" fill="#616262"/></g>
+<rect x="56" y="10" width="152.39999999999998" height="34" rx="6" fill="#0d1117" stroke="#30363d"/><rect x="56" y="40" width="152.39999999999998" height="5" fill="#0d1117"/><text x="70" y="32" class="s" font-size="13" fill="#e6edf3">carreira.ipynb</text><text x="192.39999999999998" y="32" class="s" font-size="13" fill="#8b949e">×</text>
+<text x="826" text-anchor="end" y="27" class="s" font-size="12" fill="#8b949e">Python 3 (ipykernel)</text><circle cx="838" cy="23" r="5.5" fill="none" stroke="#8b949e" stroke-width="1.5"/>
+<text x="86" y="87.84" text-anchor="end" class="m" font-size="13" fill="#58a6ff">In [1]:</text><rect x="96" y="64" width="740" height="60" rx="3" fill="#161b22" stroke="#30363d"/>
+<clipPath id="c1"><rect x="106" y="72" height="22" width="0"><animate attributeName="width" from="0" to="164" begin="0.30s" dur="0.42s" fill="freeze"/></rect></clipPath><text x="108" y="87.8" class="m" font-size="14" xml:space="preserve" clip-path="url(#c1)"><tspan fill="#ff7b72" font-weight="bold">import</tspan><tspan fill="#e6edf3"> pandas </tspan><tspan fill="#ff7b72" font-weight="bold">as</tspan><tspan fill="#e6edf3"> pd</tspan></text>
+<clipPath id="c2"><rect x="106" y="94" height="22" width="0"><animate attributeName="width" from="0" to="240" begin="0.87s" dur="0.62s" fill="freeze"/></rect></clipPath><text x="108" y="109.8" class="m" font-size="14" xml:space="preserve" clip-path="url(#c2)"><tspan fill="#ff7b72" font-weight="bold">from</tspan><tspan fill="#e6edf3"> carreira </tspan><tspan fill="#ff7b72" font-weight="bold">import</tspan><tspan fill="#e6edf3"> eduardo</tspan></text>
+<rect x="12" y="142" width="3" height="38" rx="1.5" fill="#58a6ff"/><text x="86" y="165.84" text-anchor="end" class="m" font-size="13" fill="#58a6ff">In [2]:</text><rect x="96" y="142" width="740" height="38" rx="3" fill="#161b22" stroke="#30363d"/>
+<clipPath id="c3"><rect x="106" y="150" height="22" width="0"><animate attributeName="width" from="0" to="139" begin="1.83s" dur="0.35s" fill="freeze"/></rect></clipPath><text x="108" y="165.8" class="m" font-size="14" xml:space="preserve" clip-path="url(#c3)"><tspan fill="#e6edf3">eduardo</tspan><tspan fill="#79c0ff">.</tspan><tspan fill="#d2a8ff">perfil</tspan><tspan fill="#e6edf3">()</tspan></text>
+<g opacity="0"><text x="86" y="224" text-anchor="end" class="m" font-size="13" fill="#ff7b72">Out[2]:</text><text x="96" y="234" class="s" font-size="30" font-weight="700" fill="#e6edf3">Eduardo Mendonça</text><text x="96" y="268" class="s" font-size="17" fill="#e6edf3">Estagiário de <tspan font-weight="600">People Analytics</tspan> · A.C.Camargo Cancer Center</text><text x="96" y="296" class="s" font-size="17" fill="#e6edf3">Rumo à <tspan font-weight="600" fill="#f78b47">Ciência de Dados</tspan> · Análise e Engenharia de Dados</text><text x="96" y="324" class="s" font-size="15" fill="#8b949e">ADS no Senac São Paulo  ·  São Paulo, SP</text><animate attributeName="opacity" from="0" to="1" begin="2.59s" dur="0.4s" fill="freeze"/></g>
+
+</svg>
