@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="254" height="44" viewBox="0 0 254 44" role="img" aria-label="Portfólio">
+<style>
+  .m { font-family: 'JetBrains Mono','Cascadia Code','SFMono-Regular','Consolas','DejaVu Sans Mono','Menlo',monospace; }
+</style>
+<rect x="0.5" y="0.5" width="253" height="43" rx="8" fill="#0d1117" stroke="#58a6ff"/><path d="M18 13 L30 22 L18 31 Z" fill="#58a6ff"/><text x="42" y="27" class="m" font-size="14" xml:space="preserve"><tspan fill="#e6edf3">eduardo.</tspan><tspan fill="#d2a8ff">portfolio</tspan><tspan fill="#e6edf3">()</tspan></text>
+</svg>
