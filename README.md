@@ -6,6 +6,7 @@
 </a>
 
 <p>
+  <a href="https://github.com/EduardoMendonca2709/EduardoMendonca2709/blob/main/Curriculo-Eduardo-Mendonca.pdf"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/btn-curriculo-dark.svg"><img alt="Baixar currículo em PDF" src="./assets/btn-curriculo-light.svg" height="40"></picture></a>
   <a href="https://www.linkedin.com/in/eduardosantosmendonca/"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/btn-linkedin-dark.svg"><img alt="LinkedIn" src="./assets/btn-linkedin-light.svg" height="40"></picture></a>
   <a href="https://github.com/EduardoMendonca2709?tab=repositories"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/btn-repos-dark.svg"><img alt="Repositórios" src="./assets/btn-repos-light.svg" height="40"></picture></a>
 </p>
